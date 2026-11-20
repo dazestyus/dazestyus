@@ -1,16 +1,13 @@
-## Hi there 👋
+## hi, dazestyus here 👋
 
-<!--
-**dazestyus/dazestyus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student passionate about algorithms, Linux, and open-source tools. Based in Malaysia.
 
-Here are some ideas to get you started:
+- 📚 Currently reading whatever the docs link to
+- 📫 How to reach me: **@dazestyus** on GitHub
+- 💬 Ask me about Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dazestyus&hide_border=true&theme=cobalt" alt="Commit streak" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dazestyus&layout=compact&langs_count=8&hide_border=true&theme=cobalt" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/Linux-fb923c?style=for-the-badge&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Git-fb923c?style=for-the-badge&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/C%2B%2B-fb923c?style=for-the-badge&logoColor=white" alt="C++" />
